@@ -3,7 +3,7 @@ ECE 650 Hw03 Hot Potato
 
 This file contains the code about potato structure
 
-Author: Ying Xu
+Author: Irene
 Date: 02/15/2019
 */
 
